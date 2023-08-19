@@ -1,16 +1,22 @@
-# winter-coziness README
+## Description
+A dark, nord-like theme for VS Code.
 
-## Working with Markdown
+I know the feeling when you find a theme that almost suits you, but some details bother you. That's why I'm providing you with the themes' `.json` file, so you can change it to your liking.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
+1. `git clone https://github.com/ficok/winter-coziness`
+2. Open VS Code > Extensions
+3. Drag the newest `.vsix` file into the Extensions
+4. Reload VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Alternatively, just move the whole folder into your `.vscode/extensions` folder. <br>
+***Note:*** this sometimes doesn't work for me and I don't know why. The first method never failed me though.
 
-## For more information
+Like my font? Check my [font repository](https://github.com/ficok/fonts) out. The font in the picture is 'regular-mono-v2'.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## To-do
+- Terminal colors
+- Git colors
 
-**Enjoy!**
+## Picture
+![Sample image](/picture.png)
