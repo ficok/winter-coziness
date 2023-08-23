@@ -2,7 +2,7 @@
   "name": "winter-coziness",
   "displayName": "winter coziness",
   "description": "blue theme, easy on the eyes.",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "engines": {
     "vscode": "^1.81.0"
   },
